@@ -7,7 +7,7 @@ If you want to fork this project and work on it, please follow these steps:
 
 ### 1. Clone the forked repository to your local machine using the following command:
 ```
-git clone https://github.com/your_username/project_name.git
+git clone https://github.com/RexanWONG/ReactJS-Openai-API-Demo
 ```
 
 ### 2. Create a new file in the root directory called **.env:**
